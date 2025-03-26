@@ -1,0 +1,7 @@
+Product,Price,Quantity,Total
+Apple, 400, 6.0, 2400.0
+Banana, 250, 5.0, 1250.0
+Grape, 350, 4.0, 1400.0
+Pear, 300, 8.0, 2400.0
+
+Total=7450.0
